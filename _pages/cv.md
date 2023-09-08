@@ -11,22 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and Statistics (minor in Computer Science), 2021
+* Ph.D. in Computer Science, 2022 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student Researcher, _UC Davis Computer Science_, 2022 - present
+* Computer Science Instructor, _Juni Learning_, 2021 - 2023
+* Undergraduate Student Researcher, _UC Davis Statistics_, 2021 - 2022
+* Mathematics Grader, _UC Davis Mathematics_, 2020 - 2021
+* Undergraduate Student Research, _UC Davis Mathematics_, 2020 - 2021
+* Supplemental Instructor, _Mission College, Santa Clara, CA_, 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+<!--
 Skills
 ======
 * Skill 1
@@ -35,6 +32,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
@@ -47,12 +45,14 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
