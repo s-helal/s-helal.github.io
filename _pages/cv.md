@@ -56,4 +56,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Awards co-director at the UC Davis Student Foundation
+* Machine learning division co-lead at Space and Satellite Systems at UC Davis
+* Learning Assistant at the UC Davis Mathematics Department
