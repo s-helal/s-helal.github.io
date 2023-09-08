@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+PDF with descriptions available [here](https://s-helal.github.io/files/Helal_CV.pdf).
 
 Education
 ======
