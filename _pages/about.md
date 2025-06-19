@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student under [Dr. Aditya Thakur](https://thakur.cs.ucdavis.edu/) at the University of California, Davis. I am broadly interested in machine learning explainability and particularly in understanding generative models.
+[//]: I am a PhD student under [Dr. Aditya Thakur](https://thakur.cs.ucdavis.edu/) at the University of California, Davis. I am broadly interested in machine learning explainability and particularly in understanding generative models.
